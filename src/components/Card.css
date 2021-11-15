@@ -1,0 +1,21 @@
+#card
+{
+    border-radius: 20px;
+    background-color:darkgray;
+    color:#000;
+    font-family: 'Poppins', sans-serif;
+}
+
+#card:hover
+{
+    color:#fff;
+    background-color:darkcyan;
+    
+}
+#image
+{
+    border-radius: 60%;
+    border-width: 80px;
+    background-repeat: no-repeat;
+  
+}
